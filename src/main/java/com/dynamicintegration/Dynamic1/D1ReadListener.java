@@ -23,8 +23,4 @@ public class D1ReadListener implements ReadListener {
     public void clearTags(){
         tagList.clear();
     }
-
-
-
-
 }
